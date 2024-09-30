@@ -23,7 +23,7 @@ displayThisText('Number of tuna sandwich(es)	: ' + tunaSandwich)
 displayThisText('Number of vegetarian sandwich(es)	: ' + vegeSandwich)
 displayIngredients()
 
-
+// images qui marchent
 
 "https://www.boulangerielangelus.com/wp-content/uploads/2020/09/PAIN-COMPLET-MD-DET-1024x683.png",
 "https://www.fernand-dussert.fr/media/catalog/product/cache/5/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/j/a/jambonblanc-02.png",
