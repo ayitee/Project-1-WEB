@@ -1,2 +1,2 @@
-var greetings = displayThisText("Hello world")
-console.log(greetings)
+let greetings = "Hello world"
+displayThisText(greetings)
