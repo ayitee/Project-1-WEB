@@ -1,0 +1,7 @@
+console.log(typeof abcdefg)
+console.log(typeof true)
+console.log(typeof 123456)
+console.log(typeof 123456n)
+console.log(typeof Symbol())
+console.log(typeof null)
+console.log(typeof displayThisText)
